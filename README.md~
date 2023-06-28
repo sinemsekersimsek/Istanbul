@@ -1,11 +1,11 @@
 <h1>Istanbul </h1>
 
-Istanbul'da ülkelere göre tatlı çeşitleri karşılaştırılmıştır.
+Istanbulda tatlı kültürünü tanıtmaya yönelik bir yazlımdır.
 
-<h2>Harici teknolojiler </h2>
+<h2>Tatlılar </h2>
 
-Firebase ile veritabanı baglantisi saglandi.
+Firebase ile veritabanı baglantısı saglandi.
 
-<h2>Ekran </h2>
+<h2>Ekran Goruntusu </h2>
 
 ![](screen.gif)
